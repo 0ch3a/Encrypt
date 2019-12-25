@@ -11,7 +11,7 @@ $ cd Encrypt
 ```
 # [Running]
 ```
-$ python2 Enceypt.py
+$ python2 Encrypt.py
 ```
 # [Screenshot]
 ![Screenshot_2019-12-25-22-22-27](https://user-images.githubusercontent.com/55625917/71447051-1c685080-2765-11ea-830b-9e42b6a118d6.png)
